@@ -1,0 +1,17 @@
+{
+    "api_keys": {
+        "GEMINI_API_KEY": "your_api_key_here"
+    },
+    "gui_settings": {
+        "appearance_mode": "dark",
+        "tts_enabled": false,
+        "model_selected": "gemini-1.5-pro",
+        "memory_enabled": false,
+        "mode_selected": "safe"
+    },
+    "user_preferences": {
+        "current_voice": "default_voice_id",
+        "current_voice_name": "Default",
+        "tts_rate": 150
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "Top p": 1.0,
+    "Top k": 50.0,
+    "Temperature": 1.0,
+    "Max output length": 8000.0
+}
