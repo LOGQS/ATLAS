@@ -1,6 +1,8 @@
 # 🤖 ATLAS - Advanced PC Assistant
 
 > **An AI-powered automation companion that learns, adapts, and controls your computer by using 200+ unique tools**
+> 
+> For more info: [ATLAS Visualization](https://logqs.github.io/atlas-visualization/)
 
 ## 🎥 Demo Showcase
 
